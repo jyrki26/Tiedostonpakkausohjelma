@@ -2,12 +2,14 @@
 
 ### Yleistä
 
-Tarkoituksena on toteuttaa ohjelma, jolla voi pakata tekstitiedoston pienemmäksi. Ohjelmassa toteutetaan pakkaus ainakin Huffmanin algoritmia käyttäen ja mahdollisesti jotakin Lempel Zivin algoritmia tai sen muunnosta käyttäen, jos se on ajankäytöllisesti mahdollista.
+Tarkoituksena on toteuttaa ohjelma, jolla voi pakata tekstitiedoston pienemmäksi. Ohjelmassa toteutetaan pakkaus ainakin Huffmanin algoritmia käyttäen ja mahdollisesti jotakin Lempel Zivin algoritmia tai sen muunnosta käyttäen, jos se on ajankäytöllisesti mahdollista. Ohjelmointikielenä käytetään Javaa. <br/>
+
+Ratkaistavana ongelmana on siis tiedoston pakkaus. Algoritmit on valittu kurssin esimerkkiaiheista ja tietorakenteet määräytyvät algoritmien perusteella.
 
 ### Käytetyt algoritmit ja tietorakenteet
 Algoritmeista käytetään edellä mainittuja algoritmeja. <br/>
 
-Tietorakenteista Huffmanin algoritmissa käytetään puurakennetta ja prioriteettijonoa.
+Tietorakenteista Huffmanin algoritmissa käytetään puurakennetta ja prioriteettijonoa. Mikäli Lempel Zivin algoritmi toteutetaan, päivitetään määrittelydokumenttia sen osalta.
 
 ### Syötteet
 Ohjelma saa syötteenä txt-muotoisen tekstitiedoston. Tiedosto luetaan, jonka jälkeen se pakataan ja tallennetaan uuteen tiedostoon.
