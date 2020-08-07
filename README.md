@@ -9,4 +9,5 @@ Ohjelma on toteutettu Helsingin yliopiston aineopintojen Tietorakenteet ja algor
 
 ### Viikkoraportit
 [Viikko 1](https://github.com/jyrki26/Tiedostonpakkausohjelma/blob/master/dokumentaatio/viikkoraportti1.md) <br/>
-[Viikko 2](https://github.com/jyrki26/Tiedostonpakkausohjelma/blob/master/dokumentaatio/viikkoraportti2.md)
+[Viikko 2](https://github.com/jyrki26/Tiedostonpakkausohjelma/blob/master/dokumentaatio/viikkoraportti2.md) <br/>
+[Viikko 3](https://github.com/jyrki26/Tiedostonpakkausohjelma/blob/master/dokumentaatio/viikkoraportti3.md)
